@@ -333,13 +333,13 @@ mobile-tech-display.svg
     }
 </style>
 
-<!--    <rect class="container"-->
-<!--          x="50"-->
-<!--          y="50"-->
-<!--          width="500"-->
-<!--          height="500"-->
-<!--          rx="24"-->
-<!--          ry="24"/>-->
+    <rect class="container"
+          x="50"
+          y="50"
+          width="500"
+          height="500"
+          rx="24"
+          ry="24"/>
 
     <circle class="center-circle" cx="300" cy="300" r="60"/>
 
