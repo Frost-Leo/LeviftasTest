@@ -29,4 +29,7 @@ README.md
   </picture>
 </a>
 
-<img src="docs/assets/images/readme/desktop/desktop-tech-display.svg" alt="Technology Stack" width="50%">
+<picture>
+  <source media="(max-width: 768px)" srcset="docs/assets/images/readme/mobile/mobile-tech-display.svg">
+  <img src="docs/assets/images/readme/desktop/desktop-tech-display.svg" alt="Technology Stack" width="50">
+</picture>
