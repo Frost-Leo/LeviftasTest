@@ -60,7 +60,7 @@ mobile-tech-display.svg
 <style>
     @media (prefers-color-scheme: dark) {
         .container {
-            fill: #1d1d1f;
+            fill: none;
             filter: url(#container-shadow) url(#subtle-shadow);
         }
         .center-circle {
@@ -140,7 +140,7 @@ mobile-tech-display.svg
 
     @media (prefers-color-scheme: light) {
         .container {
-            fill: #ffffff;
+            fill: none;
             filter: url(#container-shadow) url(#subtle-shadow);
         }
         .center-circle {
