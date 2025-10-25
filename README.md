@@ -30,6 +30,6 @@ README.md
 </a>
 
 <picture>
-  <source media="(max-width: 768px)" srcset="docs/assets/images/readme/mobile/mobile-tech-display.svg">
+  <source media="(max-width: 768px)" srcset="docs/assets/images/readme/mobile/mobile-tech-display.svg" width="100">
   <img src="docs/assets/images/readme/desktop/desktop-tech-display.svg" alt="Technology Stack" width="50">
 </picture>
